@@ -20,22 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast sobre Python Para Análise de Dados ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Simulação de um podcast sobre python para análise de daos
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT e ElevenLabs
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei com a ajuda do profesor no bootcamp da DIO
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Link para o ReadMe com o projeto: (https://github.com/GuiMendes02/Bootcamp_Dio_Data_Science/blob/main/README.md)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
